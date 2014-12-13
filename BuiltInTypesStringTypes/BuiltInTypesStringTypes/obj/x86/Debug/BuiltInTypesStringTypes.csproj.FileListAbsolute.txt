@@ -1,0 +1,4 @@
+F:\Persona\C-Practice\BuiltInTypesStringTypes\BuiltInTypesStringTypes\bin\Debug\BuiltInTypesStringTypes.exe
+F:\Persona\C-Practice\BuiltInTypesStringTypes\BuiltInTypesStringTypes\bin\Debug\BuiltInTypesStringTypes.pdb
+F:\Persona\C-Practice\BuiltInTypesStringTypes\BuiltInTypesStringTypes\obj\x86\Debug\BuiltInTypesStringTypes.exe
+F:\Persona\C-Practice\BuiltInTypesStringTypes\BuiltInTypesStringTypes\obj\x86\Debug\BuiltInTypesStringTypes.pdb
