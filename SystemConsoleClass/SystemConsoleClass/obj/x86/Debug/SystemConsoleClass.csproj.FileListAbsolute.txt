@@ -1,0 +1,4 @@
+F:\Persona\C-Practice\SystemConsoleClass\SystemConsoleClass\bin\Debug\SystemConsoleClass.exe
+F:\Persona\C-Practice\SystemConsoleClass\SystemConsoleClass\bin\Debug\SystemConsoleClass.pdb
+F:\Persona\C-Practice\SystemConsoleClass\SystemConsoleClass\obj\x86\Debug\SystemConsoleClass.exe
+F:\Persona\C-Practice\SystemConsoleClass\SystemConsoleClass\obj\x86\Debug\SystemConsoleClass.pdb
