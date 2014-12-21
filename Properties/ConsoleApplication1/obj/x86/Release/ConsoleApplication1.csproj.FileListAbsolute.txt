@@ -1,0 +1,4 @@
+G:\CSharp\Properties\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+G:\CSharp\Properties\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+G:\CSharp\Properties\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+G:\CSharp\Properties\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
