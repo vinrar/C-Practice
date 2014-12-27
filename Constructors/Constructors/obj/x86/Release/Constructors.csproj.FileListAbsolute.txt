@@ -1,0 +1,4 @@
+G:\CSharp\Constructors\Constructors\bin\Release\Constructors.exe
+G:\CSharp\Constructors\Constructors\bin\Release\Constructors.pdb
+G:\CSharp\Constructors\Constructors\obj\x86\Release\Constructors.exe
+G:\CSharp\Constructors\Constructors\obj\x86\Release\Constructors.pdb
